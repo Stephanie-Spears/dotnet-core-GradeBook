@@ -11,3 +11,16 @@ C:\Users\Stephanie\Desktop\Projects\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.
 C:\Users\Stephanie\Desktop\Projects\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
 C:\Users\Stephanie\Desktop\Projects\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
 C:\Users\Stephanie\Desktop\Projects\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Stephanie\Desktop\Projects\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
