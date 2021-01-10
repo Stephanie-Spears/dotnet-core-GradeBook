@@ -12,7 +12,7 @@ namespace GradeBook
 	    public Book(string name)
 	    {
 		    grades = new List<double>();
-		    this.name = name;
+		    Name = name;
 	    }
 
 
@@ -41,6 +41,6 @@ namespace GradeBook
 	    }
 
 	    private List<double> grades;
-	    private string name;
+	    public string Name;
     }
 }
