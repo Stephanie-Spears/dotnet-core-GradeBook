@@ -4,8 +4,10 @@
     "\\src",
     "\\src\\GradeBook",
     "\\test",
-    "\\test\\GradeBook.Tests"
+    "\\test\\GradeBook.Tests",
+    "\\test\\GradeBook.Tests\\bin\\Debug",
+    "\\test\\GradeBook.Tests\\bin\\Release"
   ],
-  "SelectedNode": "\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+  "SelectedNode": "\\src\\GradeBook\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
