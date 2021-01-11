@@ -11,7 +11,6 @@ namespace GradeBook
 
 			EnterGrades(book);
 
-
 			var stats = book.GetStatistics();
 
 			Console.WriteLine($"For the book named {book.Name}");
