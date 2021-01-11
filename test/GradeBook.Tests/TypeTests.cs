@@ -84,7 +84,7 @@ namespace GradeBook.Tests
 
 	    private void GetBookSetName(out Book book, string name)
 	    {
-		    book = new Book(name);
+		    book = new InMemoryBook(name);
 	    }
 
 
@@ -105,7 +105,7 @@ namespace GradeBook.Tests
 
 	    private void GetBookSetName(Book book, string name)
 	    {
-		    book = new Book(name);
+		    book = new InMemoryBook(name);
 	    }
 
 
@@ -169,7 +169,7 @@ namespace GradeBook.Tests
 
         Book GetBook(string name)
         {
-	        return new Book(name);
+	        return new InMemoryBook(name);
         }
     }
 }
