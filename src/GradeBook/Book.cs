@@ -15,8 +15,8 @@ namespace GradeBook
 		    Name = name;
 	    }
 
-/*
-	    public AddLetterGrade(char letter)
+
+	    public void AddGrade(char letter)
 	    {
 		    switch (letter)
 		    {
@@ -29,18 +29,12 @@ namespace GradeBook
 				case 'C':
 					AddGrade(70);
 					break;
-				case 'D':
-					AddGrade(60);
-					break;
-				case 'F':
-					AddGrade(50);
-					break;
 				default: 
 					AddGrade(0);
 					break;
 		    }
 
-	    }*/
+	    }
 
 
 	    public void AddGrade(double grade)
@@ -96,6 +90,13 @@ namespace GradeBook
 	    }
 
 	    private List<double> grades;
-	    public string Name;
+
+	    public string Name
+	    {
+		    get;
+		    set;
+	    } 
+	    
+	    public const string CATEGORY = "Science";
     }
 }
