@@ -9,11 +9,15 @@ namespace GradeBook
 		static void Main(string[] args)
 		{
 
-			var book = new Book("Dummy's Grade Book");
+			var book = new Book("Stephanie's Grade Book");
+			book.GradeAdded += OnGradeAdded;
+			book.GradeAdded += OnGradeAdded;
+			book.GradeAdded -= OnGradeAdded;
+			book.GradeAdded += OnGradeAdded;
 
 			while (true)
 			{
-				Console.WriteLine("Enter a numerical grade or 'q' to quit");
+				Console.WriteLine("Enter a grade or 'q' to quit");
 				var input = Console.ReadLine();
 				
 				if (input == "q")
@@ -53,5 +57,11 @@ namespace GradeBook
 			Console.WriteLine($"The average grade is {stats.Average:N1}");
 			Console.WriteLine($"The letter grade is {stats.Letter}");
 		}
+
+		static void OnGradeAdded(object sender, EventArgs e)
+		{
+			Console.WriteLine("A grade was added.");
+		}
+
 	}
 }

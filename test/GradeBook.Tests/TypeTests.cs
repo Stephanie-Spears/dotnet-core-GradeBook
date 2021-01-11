@@ -17,7 +17,7 @@ namespace GradeBook.Tests
 		    log += IncrementCount;
 
 		    var result = log("Hello!");
-
+			Assert.Equal(3, count);
 	    }
 
 	    string IncrementCount(string message)
